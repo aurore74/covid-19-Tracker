@@ -1,0 +1,14 @@
+name: Covid19
+title: Covid19
+username:
+account: tsemo-noula
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8743308
+bundleId: 7038927
+url: https://tsemo-noula.shinyapps.io/Covid19/
+when: 1680444154.65566
+lastSyncTime: 1680444154.65566
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: archive (1).zip|country_wise_latest.csv|covid_19_clean_complete.csv|day_wise.csv|TM_WORLD_BORDERS_SIMPL-0.3.zip|usa_county_wise.csv

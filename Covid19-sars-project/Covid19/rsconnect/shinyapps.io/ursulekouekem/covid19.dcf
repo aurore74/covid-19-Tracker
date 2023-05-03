@@ -1,0 +1,14 @@
+name: covid19
+title:
+username:
+account: ursulekouekem
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8750238
+bundleId: 7043992
+url: https://ursulekouekem.shinyapps.io/covid19/
+when: 1680545560.97421
+lastSyncTime: 1680545560.97423
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: archive (1).zip|country_wise_latest.csv|covid_19_clean_complete.csv|DATA/Readme.txt|day_wise.csv|TM_WORLD_BORDERS_SIMPL-0.3.zip|usa_county_wise.csv
